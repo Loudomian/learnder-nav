@@ -13,7 +13,7 @@
         "design",
         "design resources"
     ],
-    "engines": { "node": ">=14.18" },
+    "engines": { "node": ">=14.18 <15.0" },
     "scripts": {
         "dev": "next dev",
         "dev:debug": "node --inspect-brk=9300 ./node_modules/next/dist/bin/next -p 3100",
