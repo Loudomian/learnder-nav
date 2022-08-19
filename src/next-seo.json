@@ -1,0 +1,14 @@
+{
+    "title": "Learnder Nav",
+    "description": "Learnder Nav 是一个为创作者服务的导航网站",
+    "additionalMetaTags": [
+        {
+            "property": "author",
+            "content": "Learnder Team"
+        },
+        {
+            "property": "keywords",
+            "content": "site navigation,网站导航,设计导航,learnder,design,design resource,3d"
+        }
+    ]
+}
