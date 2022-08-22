@@ -7,61 +7,61 @@
                 "name": "Blender 示例工程",
                 "description": "来自 Blender 官方的示例工程",
                 "url": "https://www.blender.org/download/demo-files",
-                "image": "https://assets.007.rip/image/learnder-nav/site/blender.png"
+                "image": "./images/site/blender.png"
             },
             {
                 "name": "SFMLab⚡",
                 "description": "最大的第三方 SFM 模型库",
                 "url": "https://sfmlab.com",
-                "image": "https://assets.007.rip/image/learnder-nav/site/sfmlab.png"
+                "image": "./images/site/sfmlab.png"
             },
             {
                 "name": "Smutbase⚡",
                 "description": "最出名的 3D 同人模型库",
                 "url": "https://smutba.se",
-                "image": "https://assets.007.rip/image/learnder-nav/site/smutbase.png"
+                "image": "./images/site/smutbase.png"
             },
             {
                 "name": "Open3DLab",
                 "description": "Smutbase 的河蟹版本",
                 "url": "https://open3dlab.com",
-                "image": "https://assets.007.rip/image/learnder-nav/site/open3dlab.png"
+                "image": "./images/site/open3dlab.png"
             },
             {
                 "name": "DeviantArt🧱",
                 "description": "XNALara(XPS) 模型库，最大的艺术家分享网站",
                 "url": "https://www.deviantart.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/deviantart.png"
+                "image": "./images/site/deviantart.png"
             },
             {
                 "name": "Pack 3D models",
                 "description": "俄罗斯的 3D 游戏模型库",
                 "url": "https://p3dm.ru/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/p3dm.png"
+                "image": "./images/site/p3dm.png"
             },
             {
                 "name": "Poly Haven",
                 "description": "一个出名的 CC0 资产库，包含 HDRIs，材质和模型",
                 "url": "https://polyhaven.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/polyhaven.png"
+                "image": "./images/site/polyhaven.png"
             },
             {
                 "name": "Render-State",
                 "description": "Daz3D 素材究极开心网",
                 "url": "https://render-state.to/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/render-state.png"
+                "image": "./images/site/render-state.png"
             },
             {
                 "name": "3DLOAD",
                 "description": "Daz3D 素材二号开心网",
                 "url": "https://render-state.to/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/3dload.png"
+                "image": "./images/site/3dload.png"
             },
             {
                 "name": "DAZ 3D - Poster",
                 "description": "Daz3D 素材三号开心网",
                 "url": "https://daz3d-poser.net/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/daz3d-poser.png"
+                "image": "./images/site/daz3d-poser.png"
             }
         ]
     },
@@ -73,61 +73,61 @@
                 "name": "RenderHub⚡",
                 "description": "一个面向创作者的 3D 素材商店",
                 "url": "https://www.renderhub.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/renderhub.png"
+                "image": "./images/site/renderhub.png"
             },
             {
                 "name": "Renderosity⚡",
                 "description": "一个数字艺术社区，供 CG 艺术家购买和销售 2D 和 3D 资产",
                 "url": "https://www.renderosity.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/renderosity.png"
+                "image": "./images/site/renderosity.png"
             },
             {
                 "name": "Forender🧱",
                 "description": "Daz3D 同人资产商店",
                 "url": "https://www.forender.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/forender.png"
+                "image": "./images/site/forender.png"
             },
             {
                 "name": "Renderotica⚡⚡",
                 "description": "Daz3D 一体化怪东西社区商店",
                 "url": "https://www.renderotica.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/renderotica.png"
+                "image": "./images/site/renderotica.png"
             },
             {
                 "name": "Ram@Crossmind🧱",
                 "description": "CrossMind Studio 的高质量工程文件",
                 "url": "https://crossmindstudio.gumroad.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/crossmindstudio.png"
+                "image": "./images/site/crossmindstudio.png"
             },
             {
                 "name": "Benianus 3D🧱🧧",
                 "description": "一个面向建筑师、室内设计师和 3D 艺术家的公共免费 CC0 资产库",
                 "url": "https://benianus3d.gumroad.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/benianus3d.png"
+                "image": "./images/site/benianus3d.png"
             },
             {
                 "name": "C&C Studio🧱🧧",
                 "description": "来自多米尼加共和国和意大利的两位 3D 建模师分享的资产",
                 "url": "https://ccstudio30.gumroad.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/ccstudio30.png"
+                "image": "./images/site/ccstudio30.png"
             },
             {
                 "name": "Ben🧱🧧",
                 "description": "有趣的几何节点，材质等程序化资产",
                 "url": "https://bbbn19.gumroad.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/bbbn19.png"
+                "image": "./images/site/bbbn19.png"
             },
             {
                 "name": "Kristof Dedene🧱🧧",
                 "description": "三渲二，类宫崎骏的风格化资产",
                 "url": "https://kdedene.gumroad.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/kdedene.png"
+                "image": "./images/site/kdedene.png"
             },
             {
                 "name": "Amin Missaoui🧱🧧",
                 "description": "技术创作者，分享的程序化资产",
                 "url": "https://aminmissaoui.gumroad.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/aminmissaoui.png"
+                "image": "./images/site/aminmissaoui.png"
             }
         ]
     },
@@ -139,49 +139,49 @@
                 "name": "Adobe Audition Sound Effects",
                 "description": "Adobe 创意云提供的免版税音效合集",
                 "url": "https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html",
-                "image": "https://assets.007.rip/image/learnder-nav/site/adobe.png"
+                "image": "./images/site/adobe.png"
             },
             {
                 "name": "小森平的免费音效库",
                 "description": "日本音乐人的免费音效库",
                 "url": "https://taira-komori.jpn.org/freesoundtw.html",
-                "image": "https://assets.007.rip/image/learnder-nav/site/taira-komori.png"
+                "image": "./images/site/taira-komori.png"
             },
             {
                 "name": "魔王魂",
                 "description": "CC BY 4.0 可商用音乐库",
                 "url": "https://maou.audio/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/maou.png"
+                "image": "./images/site/maou.png"
             },
             {
                 "name": "FreePD",
                 "description": "免费公众领域曲库",
                 "url": "https://freepd.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/freepd.png"
+                "image": "./images/site/freepd.png"
             },
             {
                 "name": "OtoLogic",
                 "description": "由专业的声音创作者制作的 CC BY 4.0 音频库",
                 "url": "https://otologic.jp/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/otologic.png"
+                "image": "./images/site/otologic.png"
             },
             {
                 "name": "Musopen",
                 "description": "免费向公众提供不受版权限制的录音，乐谱和教学",
                 "url": "https://musopen.org/zh-hans/music/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/musopen.png"
+                "image": "./images/site/musopen.png"
             },
             {
                 "name": "Looperman",
                 "description": "循环音频社区，由社区成员一同创作免费可商用的循环音频片段",
                 "url": "https://www.looperman.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/looperman.png"
+                "image": "./images/site/looperman.png"
             },
             {
                 "name": "耳聆网",
                 "description": "中国最专业的声音分享平台，用户共享高质量音频素材",
                 "url": "https://www.ear0.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/ear0.png"
+                "image": "./images/site/ear0.png"
             }
         ]
     },
@@ -193,19 +193,19 @@
                 "name": "OfficePLUS",
                 "description": "微软官方 PPT 模板",
                 "url": "https://www.officeplus.cn/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/officeplus.png"
+                "image": "./images/site/officeplus.png"
             },
             {
                 "name": "优品PPT",
                 "description": "一个有情怀的免费 PPT 模板下载站",
                 "url": "https://www.ypppt.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/ypppt.png"
+                "image": "./images/site/ypppt.png"
             },
             {
                 "name": "HiPPTer",
                 "description": "精品 PPT 模板免费下载",
                 "url": "http://www.hippter.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/hippter.png"
+                "image": "./images/site/hippter.png"
             }
         ]
     },
@@ -217,49 +217,49 @@
                 "name": "ITDOG",
                 "description": "好用的在线 Ping，MTR，DNS 查询工具",
                 "url": "https://www.itdog.cn/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/itdog.png"
+                "image": "./images/site/itdog.png"
             },
             {
                 "name": "GTmetrix",
                 "description": "在线监测网站访问速度和性能",
                 "url": "https://gtmetrix.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/gtmetrix.png"
+                "image": "./images/site/gtmetrix.png"
             },
             {
                 "name": "Can I use",
                 "description": "检查浏览器可使用的 CSS 和 JavaScript 功能",
                 "url": "https://caniuse.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/caniuse.png"
+                "image": "./images/site/caniuse.png"
             },
             {
                 "name": "The Favicon Finder",
                 "description": "网站图标下载工具",
                 "url": "https://besticon.herokuapp.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/besticon.png"
+                "image": "./images/site/besticon.png"
             },
             {
                 "name": "removebg",
                 "description": "超级好用的背景消除工具，有免费额度",
                 "url": "https://www.remove.bg/r/xmmEBqfKMa954GowMxcDv5Ah?locale=zh",
-                "image": "https://assets.007.rip/image/learnder-nav/site/removebg.png"
+                "image": "./images/site/removebg.png"
             },
             {
                 "name": "Convertio",
                 "description": "在线万能格式转换工具",
                 "url": "https://convertio.co/zh/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/convertio.png"
+                "image": "./images/site/convertio.png"
             },
             {
                 "name": "TinyPNG",
                 "description": "高质量高效率的图片压缩工具",
                 "url": "https://tinypng.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/tinypng.png"
+                "image": "./images/site/tinypng.png"
             },
             {
                 "name": "ASCII Art Generator",
                 "description": "ACSII 艺术字体生成工具",
                 "url": "http://patorjk.com/software/taag",
-                "image": "https://assets.007.rip/image/learnder-nav/site/3dload.png"
+                "image": "./images/site/3dload.png"
             }
         ]
     },
@@ -271,43 +271,43 @@
                 "name": "unDraw",
                 "description": "免费，矢量插画，可在线调节颜色",
                 "url": "https://undraw.co/illustrations",
-                "image": "https://assets.007.rip/image/learnder-nav/site/undraw.png"
+                "image": "./images/site/undraw.png"
             },
             {
                 "name": "Blush",
                 "description": "色彩鲜明的插画，还可以在figma和sketch中安装插件",
                 "url": "https://blush.design/zh-CN",
-                "image": "https://assets.007.rip/image/learnder-nav/site/blush.png"
+                "image": "./images/site/blush.png"
             },
             {
                 "name": "Free Illustrations",
                 "description": "一个免费的高质量矢量插画资源",
                 "url": "https://sketchvalley.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/sketchvalley.png"
+                "image": "./images/site/sketchvalley.png"
             },
             {
                 "name": "RESHOT",
                 "description": "免费图标、插图，可商用",
                 "url": "https://www.reshot.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/reshot.png"
+                "image": "./images/site/reshot.png"
             },
             {
                 "name": "IconPark",
                 "description": "免费，规范、统一、多风格切换（字节跳动）",
                 "url": "https://iconpark.oceanengine.com/home",
-                "image": "https://assets.007.rip/image/learnder-nav/site/iconpark.png"
+                "image": "./images/site/iconpark.png"
             },
             {
                 "name": "Iconfont",
                 "description": "免费，图标数量丰富，有插画，需登录（阿里）",
                 "url": "https://www.iconfont.cn",
-                "image": "https://assets.007.rip/image/learnder-nav/site/iconfont.png"
+                "image": "./images/site/iconfont.png"
             },
             {
                 "name": "Remix Icon",
                 "description": "免费，精致统一的开源图标",
                 "url": "https://remixicon.com",
-                "image": "https://assets.007.rip/image/learnder-nav/site/remixicon.png"
+                "image": "./images/site/remixicon.png"
             }
         ]
     },
@@ -319,49 +319,49 @@
                 "name": "ColorDrop",
                 "description": "四色色卡",
                 "url": "https://colordrop.io",
-                "image": "https://assets.007.rip/image/learnder-nav/site/colordrop.png"
+                "image": "./images/site/colordrop.png"
             },
             {
                 "name": "中国色",
                 "description": "中国传统色",
                 "url": "http://zhongguose.com",
-                "image": "https://assets.007.rip/image/learnder-nav/site/zhonguose.png"
+                "image": "./images/site/zhonguose.png"
             },
             {
                 "name": "Nippon Colors",
                 "description": "日本传统色",
                 "url": "https://nipponcolors.com",
-                "image": "https://assets.007.rip/image/learnder-nav/site/nipponcolors.png"
+                "image": "./images/site/nipponcolors.png"
             },
             {
                 "name": "WebGradients",
                 "description": "优美的渐变色",
                 "url": "https://webgradients.com",
-                "image": "https://assets.007.rip/image/learnder-nav/site/webgradients.png"
+                "image": "./images/site/webgradients.png"
             },
             {
                 "name": "BrandColors",
                 "description": "各大公司品牌色",
                 "url": "https://brandcolors.net/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/brandcolors.png"
+                "image": "./images/site/brandcolors.png"
             },
             {
                 "name": "Mesh Gradients",
                 "description": "不规则渐变",
                 "url": "https://products.ls.graphics/mesh-gradients/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/mesh-gradients.png"
+                "image": "./images/site/mesh-gradients.png"
             },
             {
                 "name": "Open Color",
                 "description": "13个色系，每种色系分10个明度",
                 "url": "https://yeun.github.io/open-color/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/opencolor.png"
+                "image": "./images/site/opencolor.png"
             },
             {
                 "name": "ColorBox",
                 "description": "自动生成色彩梯度",
                 "url": "https://colorbox.io/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/colorbox.png"
+                "image": "./images/site/colorbox.png"
             }
         ]
     },
@@ -373,49 +373,49 @@
                 "name": "Unsplash",
                 "description": "免费，由世界各地创作者提供的高质量图片",
                 "url": "https://unsplash.com",
-                "image": "https://assets.007.rip/image/learnder-nav/site/unsplash.png"
+                "image": "./images/site/unsplash.png"
             },
             {
                 "name": "Pexels",
                 "description": "免费，包括图片和视频",
                 "url": "https://www.pexels.com",
-                "image": "https://assets.007.rip/image/learnder-nav/site/pexels.png"
+                "image": "./images/site/pexels.png"
             },
             {
                 "name": "Pixabay",
                 "description": "免费，超过 250 万张高质量的作品，包括图片、视频和音乐",
                 "url": "https://pixabay.com",
-                "image": "https://assets.007.rip/image/learnder-nav/site/pixabay.png"
+                "image": "./images/site/pixabay.png"
             },
             {
                 "name": "SplitShire",
                 "description": "免费，精美独特的图片库",
                 "url": "https://www.splitshire.com",
-                "image": "https://assets.007.rip/image/learnder-nav/site/splitshire.png"
+                "image": "./images/site/splitshire.png"
             },
             {
                 "name": "StolSnap",
                 "description": "免费，每天都更新图片",
                 "url": "https://stocksnap.io",
-                "image": "https://assets.007.rip/image/learnder-nav/site/stocksnap.png"
+                "image": "./images/site/stocksnap.png"
             },
             {
                 "name": "IMGBIN",
                 "description": "免费，由设计师创建的数百万个透明 PNG 文件",
                 "url": "https://imgbin.com",
-                "image": "https://assets.007.rip/image/learnder-nav/site/imgbin.png"
+                "image": "./images/site/imgbin.png"
             },
             {
                 "name": "POND5",
                 "description": "公共领域，有图片，音乐，模型等数千个历史媒体文件",
                 "url": "https://www.pond5.com/public-domain",
-                "image": "https://assets.007.rip/image/learnder-nav/site/pond5.png"
+                "image": "./images/site/pond5.png"
             },
             {
                 "name": "Streetwill",
                 "description": "免费高质量街拍图片",
                 "url": "http://streetwill.co",
-                "image": "https://assets.007.rip/image/learnder-nav/site/streetwill.png"
+                "image": "./images/site/streetwill.png"
             }
         ]
     },
@@ -427,43 +427,43 @@
                 "name": "编动小组",
                 "description": "Autodesk 逆向工具",
                 "url": "https://www.bdgroup-lab.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/bdgroup-lab.png"
+                "image": "./images/site/bdgroup-lab.png"
             },
             {
                 "name": "vposy",
                 "description": "Adobe 全家福（需关注账号查看置顶文章）",
                 "url": "https://weibo.com/vposy",
-                "image": "https://assets.007.rip/image/learnder-nav/site/vposy.png"
+                "image": "./images/site/vposy.png"
             },
             {
                 "name": "Repacks",
                 "description": "著名的俄罗斯逆向软件网站",
                 "url": "https://lrepacks.net/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/lrepacks.png"
+                "image": "./images/site/lrepacks.png"
             },
             {
                 "name": "Modme Wiki",
                 "description": "COD系列，Apex 和 Doom 的逆向工具",
                 "url": "https://wiki.modme.co/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/modme.png"
+                "image": "./images/site/modme.png"
             },
             {
                 "name": "Gildor",
                 "description": "Unreal Engine 逆向工具和论坛",
                 "url": "https://www.gildor.org/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/gildor.png"
+                "image": "./images/site/gildor.png"
             },
             {
                 "name": "XeNTax",
                 "description": "游戏逆向论坛",
                 "url": "https://forum.xentax.com/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/xentax.png"
+                "image": "./images/site/xentax.png"
             },
             {
                 "name": "ResidentEvil Modding",
                 "description": "Resident Evil 系列逆向论坛",
                 "url": "https://residentevilmodding.boards.net/thread/10567/pak-tex-editing-tool",
-                "image": "https://assets.007.rip/image/learnder-nav/site/residentevilmodding.png"
+                "image": "./images/site/residentevilmodding.png"
             }
         ]
     },
@@ -475,37 +475,37 @@
                 "name": "Pte Jack 的指南🧱",
                 "description": "Source Filmmaker 指南合集",
                 "url": "https://steamcommunity.com/id/PteJack/myworkshopfiles/?section=guides",
-                "image": "https://assets.007.rip/image/learnder-nav/site/steam.png"
+                "image": "./images/site/steam.png"
             },
             {
                 "name": "Source2 Filmmaker 开发者指南",
                 "description": "Half-Life: Alyx 的 SDK 文档",
                 "url": "https://developer.valvesoftware.com/wiki/Half-Life:_Alyx_Workshop_Tools:zh-cn",
-                "image": "https://assets.007.rip/image/learnder-nav/site/steam.png"
+                "image": "./images/site/steam.png"
             },
             {
                 "name": "中文文案排版指北",
                 "description": "统一中文文案、排版的相关用法",
                 "url": "https://mazhuang.org/wiki/chinese-copywriting-guidelines/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/mazhuang.png"
+                "image": "./images/site/mazhuang.png"
             },
             {
                 "name": "Jan van den Hemel🧱",
                 "description": "Jan van den Hemel 的优质 Blender 短篇教程",
                 "url": "https://twitter.com/JanvandenHemel",
-                "image": "https://assets.007.rip/image/learnder-nav/site/janvandenhemel.png"
+                "image": "./images/site/janvandenhemel.png"
             },
             {
                 "name": "Emoji XD",
                 "description": "线上Emoji百科全书，支持关键词搜索",
                 "url": "https://emojixd.com",
-                "image": "https://assets.007.rip/image/learnder-nav/site/emojixd.png"
+                "image": "./images/site/emojixd.png"
             },
             {
                 "name": "Git Emoji 使用指南",
                 "description": "Emoji 在 Git 提交时的使用指南",
                 "url": "http://wejectchan.gitee.io/git-emoji-user-guide/",
-                "image": "https://assets.007.rip/image/learnder-nav/site/git-emoji-cn.png"
+                "image": "./images/site/git-emoji-cn.png"
             }
         ]
     }
