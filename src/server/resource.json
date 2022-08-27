@@ -226,6 +226,12 @@
                 "image": "./images/site/gtmetrix.png"
             },
             {
+                "name": "Ping.Sx",
+                "description": "在线全球 Ping 指定 IP 或 域名，查询丢包延迟",
+                "url": "https://ping.sx/ping",
+                "image": "./images/site/misaka.png"
+            },
+            {
                 "name": "Can I use",
                 "description": "检查浏览器可使用的 CSS 和 JavaScript 功能",
                 "url": "https://caniuse.com/",
