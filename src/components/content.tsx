@@ -148,7 +148,7 @@ const Content = () => {
                                 如果你有了解这个项目的兴趣，欢迎点击下面的图标了解更多。
                             </Text>
                             <Link
-                                href="https://github.com/3D-Learnder"
+                                href="https://github.com/Loudomian/learnder-nav"
                             >
                                 <Image
                                     src="./logo-hero.png"
