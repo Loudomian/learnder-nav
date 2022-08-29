@@ -62,6 +62,18 @@
                 "description": "Daz3D 素材三号开心网",
                 "url": "https://daz3d-poser.net/",
                 "image": "./images/site/daz3d-poser.png"
+            },
+            {
+                "name": "Blender布的",
+                "description": "一个 Blender 开心资产站",
+                "url": "https://blenderco.cn/",
+                "image": "./images/site/blenderco.png"
+            },
+            {
+                "name": "画忆妙妙屋",
+                "description": "精品 3D 开心资产库",
+                "url": "https://www.iiicg.com/",
+                "image": "./images/site/iiicg.png"
             }
         ]
     },
