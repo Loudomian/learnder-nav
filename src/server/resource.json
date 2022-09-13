@@ -282,6 +282,36 @@
         ]
     },
     {
+        "name": "分享储存",
+        "icon": "./images/menu/cloud-storage.svg",
+        "site": [
+            {
+                "name": "钛盘",
+                "description": "好用的文件中转站。",
+                "url": "https://tmp.link/",
+                "image": "./images/site/tmp-link.png"
+            },
+            {
+                "name": "SwissTransfer",
+                "description": "大容量，长时间存储的临时分享。",
+                "url": "https://www.swisstransfer.com/",
+                "image": "./images/site/swisstransfer.png"
+            },
+            {
+                "name": "WeTransfer",
+                "description": "奶牛快传的爹，且更好用。",
+                "url": "https://wetransfer.com/",
+                "image": "./images/site/wetransfer.png"
+            },
+            {
+                "name": "Ufile",
+                "description": "分享文件，但有一定限制。",
+                "url": "https://ufile.io/",
+                "image": "./images/site/ufile.png"
+            }
+        ]
+    },
+    {
         "name": "插画图标",
         "icon": "./images/menu/illustration.svg",
         "site": [
