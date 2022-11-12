@@ -41,9 +41,15 @@
             },
             {
                 "name": "Poly Haven",
-                "description": "一个出名的 CC0 资产库，包含 HDRIs，材质和模型",
+                "description": "一个出名的 CC0 资产库，包含 HDRi，材质和模型",
                 "url": "https://polyhaven.com/",
                 "image": "./images/site/polyhaven.png"
+            },
+            {
+                "name": "ambientCG",
+                "description": "新兴 CC0 资产库，除了材质和 HDRi 甚至有 Substance 资产",
+                "url": "https://ambientcg.com/",
+                "image": "./images/site/ambientcg.png"
             },
             {
                 "name": "Render-State",
