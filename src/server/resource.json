@@ -292,10 +292,10 @@
         "icon": "./images/menu/cloud-storage.svg",
         "site": [
             {
-                "name": "钛盘",
-                "description": "好用的文件中转站。",
-                "url": "https://tmp.link/",
-                "image": "./images/site/tmp-link.png"
+                "name": "文叔叔",
+                "description": "无需登录的国内在线传。",
+                "url": "https://www.wenshushu.cn/",
+                "image": "./images/site/wenshushu.png"
             },
             {
                 "name": "SwissTransfer",
@@ -314,6 +314,12 @@
                 "description": "分享文件，但有一定限制。",
                 "url": "https://ufile.io/",
                 "image": "./images/site/ufile.png"
+            },
+            {
+                "name": "钛盘",
+                "description": "好用的文件中转站，现在限制较多。",
+                "url": "https://tmp.link/",
+                "image": "./images/site/tmp-link.png"
             }
         ]
     },
@@ -470,6 +476,30 @@
                 "description": "免费高质量街拍图片",
                 "url": "http://streetwill.co",
                 "image": "./images/site/streetwill.png"
+            }
+        ]
+    },
+    {
+        "name": "视频",
+        "icon": "./images/menu/video.svg",
+        "site": [
+            {
+                "name": "Coverr",
+                "description": "提供了超多高质量航拍视频的网站，不用注册，可直接下载商用。",
+                "url": "https://coverr.co",
+                "image": "./images/site/coverr.png"
+            },
+            {
+                "name": "Mazwai",
+                "description": "这个网站每个视频都是经过手工精选的，画面和角度都很刁钻。",
+                "url": "https://mazwai.com",
+                "image": "./images/site/mazwai.png"
+            },
+            {
+                "name": "Videvo",
+                "description": "一个致力打造全球第一的视频素材网站，提供数量丰富素材，免版权。",
+                "url": "https://www.videvo.net",
+                "image": "./images/site/videvo.png"
             }
         ]
     },
