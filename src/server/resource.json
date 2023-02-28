@@ -204,6 +204,36 @@
         ]
     },
     {
+        "name": "算力平台",
+        "icon": "./images/menu/gpu-container.svg",
+        "site": [
+            {
+                "name": "飞桨 AI Studio",
+                "description": "百度的人工智能训练平台，白嫖",
+                "url": "https://aistudio.baidu.com/",
+                "image": "./images/site/aistudio.png"
+            },
+            {
+                "name": "AutoDL",
+                "description": "品质 GPU 租用平台，高性价比",
+                "url": "https://www.autodl.com/register?code=12ce68b5-80d3-41a5-80f7-bc3ed18c60a0",
+                "image": "./images/site/autodl.png"
+            },
+            {
+                "name": "Gpushare Cloud",
+                "description": "专注 AI 行业的共享算力平台，高性价比",
+                "url": "https://gpushare.com/auth/register?user=18*****4742&fromId=4f880081aa18&source=link",
+                "image": "./images/site/gpushare.png"
+            },
+            {
+                "name": "OpenBayes",
+                "description": "简单、快速构建高性能 AI 服务，可白嫖，高性价比",
+                "url": "https://openbayes.com/console/signup?r=Loudomian_j17I",
+                "image": "./images/site/openbayes.png"
+            }
+        ]
+    },
+    {
         "name": "文档素材",
         "icon": "./images/menu/ppt.svg",
         "site": [
