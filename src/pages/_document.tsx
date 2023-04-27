@@ -15,7 +15,7 @@ class MyDocument extends Document {
                 <Head>
                     <link rel="icon" href="./logo.png" />
                     <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet"></link>
-                    <script async defer data-website-id="762d5c0b-0d40-4afa-80fc-b8ea0c8dbb25" src="https://umm.007.rip/umami.js"></script>
+                    <script async defer data-website-id="762d5c0b-0d40-4afa-80fc-b8ea0c8dbb25" src="https://umm.learnder.org/script.js"></script>
                 </Head>
                 <body>
                     <Main />
