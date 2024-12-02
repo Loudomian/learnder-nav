@@ -6,7 +6,7 @@ title: "Nav"
 subtitle: "Learnder"
 logo: "https://jsd.onmicrosoft.cn/gh/Loudomian/learnder-nav/assets/icons/logo.png"
 header: true
-footer: '<p>Created with <span class="has-text-danger">❤️</span>, Run by <a href="https://learnder.og">Learnder</a>.</p>'
+footer: '<p>Created with <span class="has-text-danger">❤️</span>, Run by <a href="https://learnder.og">Learnder</a>.（Last updated 2024/12/2)</p>'
 
 columns: 3
 connectivityCheck: true
@@ -49,9 +49,8 @@ colors:
     link-hover: "#a0b9ce"
 
 message:
-  url: https://learnder.org/
   style: "is-dark"
-  title: "👋 早上中午晚上好（最后更新时间 2024/12/2）"
+  title: "👋 早上中午晚上好"
   content: "导航站也是时候更新了，目前更换了技术栈，如果你有什么好的站点，可以通过 <a href='https://evqxwnt7i70.feishu.cn/share/base/form/shrcnDNZ81hdNkCqeV4Pk8VppEg'>表单提交</a>。"
 
 links:
@@ -101,6 +100,10 @@ services:
         logo: "https://jsd.onmicrosoft.cn/gh/Loudomian/learnder-nav/assets/site/p3dm.png"
         subtitle: "俄罗斯的 3D 游戏模型库"
         url: "https://p3dm.ru/"
+      - name: "FreeStylized"
+        logo: "https://jsd.onmicrosoft.cn/gh/Loudomian/learnder-nav/assets/site/freestylized.png"
+        subtitle: "免费的风格化资产分享网站"
+        url: "https://freestylized.com/"
       - name: "Poly Haven"
         logo: "https://jsd.onmicrosoft.cn/gh/Loudomian/learnder-nav/assets/site/polyhaven.png"
         subtitle: "一个出名的 CC0 资产库，包含 HDRi，材质和模型"
