@@ -1,0 +1,3 @@
+body .message-header {
+    background-color: var(--highlight-secondary) !important;
+}
