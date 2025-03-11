@@ -183,6 +183,11 @@ services:
   - name: "3D 个人分享"
     icon: "fas fa-user"
     items:
+      - name: "Chuck_CG"
+        logo: "https://jsd.onmicrosoft.cn/gh/Loudomian/learnder-nav/assets/site/chuckcg.png"
+        subtitle: "Chuck 个人制作的资产，可商用"
+        tag: "付费, 科学上网"
+        url: "https://chuckcg.gumroad.com/"
       - name: "Ram@Crossmind"
         logo: "https://jsd.onmicrosoft.cn/gh/Loudomian/learnder-nav/assets/site/crossmindstudio.png"
         subtitle: "CrossMind Studio 的高质量工程文件"
